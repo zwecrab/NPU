@@ -126,8 +126,8 @@ The web application allows users to:
 - Scalable to additional datasets or queries.
 
 ### Screenshots
-![User Input Page](<code/screenshot/User_Input_Page.png>)
-![Result Page](<code/screenshot/User_Input_Page.png>)
+![User Input Page](code/screenshot/User_Input_Page.png)
+![Result Page](code/screenshot/User_Input_Page.png)
 
 ---
 
