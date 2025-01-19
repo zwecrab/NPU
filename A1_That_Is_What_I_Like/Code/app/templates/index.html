@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/style.css">
+    <title>Word Similarity Search</title>
+</head>
+<body>
+    <div class="container">
+        <h1>A1: That’s What I LIKE!
+        </h1>
+        <form method="post" onsubmit="document.getElementById('loading').style.display = 'block';">
+            <input type="text" name="search_query" placeholder="Enter a word" required>
+            <button type="submit">Search</button>
+        </form>
+
+        <div id="loading" style="display: none;">
+            <p>Loading...</p>
+        </div>
+
+        {% if search_query %}
+        <h2>Search Results for: {{ search_query }}</h2>
+        <div class="results">
+            <h3>GloVe Results</h3>
+            <ul>
+                {% for result in glove_output %}
+                <li>{{ result }}</li>
+                {% endfor %}
+            </ul>
+
+            <h3>Gensim Results</h3>
+            <ul>
+                {% for result in gensim_output %}
+                <li>{{ result }}</li>
+                {% endfor %}
+            </ul>
+
+            <h3>Skipgram Results</h3>
+            <ul>
+                {% for result in skipgram_output %}
+                <li>{{ result }}</li>
+                {% endfor %}
+            </ul>
+
+            <h3>Skipgram with Negative Sampling Results</h3>
+            <ul>
+                {% for result in skipgram_neg_output %}
+                <li>{{ result }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
