@@ -106,7 +106,7 @@ The following models were trained and evaluated:
 | Skip-gram            | 3 min 24 sec  | 10.106943     | 0.00%               | 0.00%             | 0.2254            |
 | Skip-gram (NEG)      | 3 min 17 sec  |  2.880926     | 0.00%               | 0.00%             | 0.2899            |
 | GloVe                | 1 min  9 sec  |  8.504427     | 0.00%               | 0.00%             | 0.1609            |
-| GloVe (Gensim)       | GENSIM                        | 63.11%              | 55.45%            | 0.6038            |
+| GENSIM               | GENSIM        | GENSIM        | 63.11%              | 55.45%            | 0.6038            |
 
 - **Correlation with Human Similarity Metrics**: Assessed using Spearman's rank correlation (dataset - wordsim_similarity_goldstandard)- 0.9677
 
@@ -126,8 +126,10 @@ The web application allows users to:
 - Scalable to additional datasets or queries.
 
 ### Screenshots
-![User Input Page](Code/screenshot/Result_Page.png)
-![Result Page](Code/screenshot/User_Input_Page.png)
+
+![User Input Page](Code/screenshot/User_Input_Page.png)
+
+![Result Page](Code/screenshot/Result_Page.png)
 
 ---
 
