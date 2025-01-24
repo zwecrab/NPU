@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A2: Language Model (Harry Potter Stories)</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>A2: Language Model (Harry Potter Stories)</h1>
+            <p>Generate text using an LSTM-based language model trained on Harry Potter stories.</p>
+        </header>
+
+        <main>
+            <form method="POST">
+                <label for="prompt">Enter up to 5 words:</label>
+                <input type="text" id="prompt" name="prompt" maxlength="30" placeholder="e.g., The Hogwarts is" required>
+                <button type="submit">Generate Text</button>
+            </form>
+
+            {% if prompt %}
+            <div class="output">
+                <h2>Generated Text</h2>
+                <p><strong>Prompt:</strong> {{ prompt }}</p>
+                <p><strong>Generated Sentence:</strong> {{ generated_text }}</p>
+            </div>
+            {% endif %}
+        </main>
+
+        <footer>
+            <p>&copy; Zwe Htet-st125338-A2: Language Model.</p>
+        </footer>
+    </div>
+</body>
+</html>
