@@ -6,7 +6,7 @@
 
 ## Acknowledgments
 
-This project was developed under the guidance of **Professor [Professor's Name]**. I am grateful for the invaluable assistance and support from my friends and seniors throughout this assignment. Special thanks to **Ginga1402** for providing the [Harry Potter Novels Dataset](https://github.com/Ginga1402/Harry-Potter-Dataset), which was instrumental in training the language model.
+This project was developed under the guidance of **Professor Chaklam**. I am grateful for the invaluable assistance and support from my friends and seniors throughout this assignment. Special thanks to **Ginga1402** for providing the [Harry Potter Novels Dataset](https://github.com/Ginga1402/Harry-Potter-Dataset), which was instrumental in training the language model.
 
 ---
 
