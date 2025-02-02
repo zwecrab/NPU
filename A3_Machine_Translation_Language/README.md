@@ -24,12 +24,13 @@ This repository contains the implementation and experiments for the **"A3: Make 
 
 1. [Overview](#overview)  
 2. [Installation](#installation)  
-3. [Usage](#usage)  
-4. [Preprocessing Steps](#preprocessing-steps)  
-5. [Model Architecture and Training](#model-architecture-and-training)  
-6. [Web Application](#web-application)  
-7. [Evaluation](#evaluation)  
-8. [Dataset Attribution](#dataset-attribution)  
+3. [Usage](#usage)
+4. [Training Data](#training-data)
+5. [Preprocessing Steps](#preprocessing-steps)  
+6. [Model Architecture and Training](#model-architecture-and-training)  
+7. [Web Application](#web-application)  
+8. [Evaluation](#evaluation)  
+9. [Dataset Attribution](#dataset-attribution)  
 
 ---
 
@@ -84,6 +85,15 @@ The project involves:
    http://127.0.0.1:5000
    ```
 3. Enter English text in the input box and click "Translate" to generate the Burmese translation.
+
+---
+
+## Training Data
+
+- **Dataset Source**: [myXNLI dataset](https://github.com/akhtet/myXNLI/tree/main)
+- **Training Set**: 9713 rows  
+- **Validation Set**: 99 rows  
+- **Testing Set**: 100 rows
 
 ---
 
@@ -156,6 +166,16 @@ A Flask-based web application was developed to demonstrate real-time English-to-
 | Multiplicative       | 2.406         | 11.094        | 3.549           | 34.770         |
 | **Additive**         | **2.408**     | **11.113**    | **3.523**       | **33.892**     |
 
+### Performance Plots
+| General Attention Loss  | Multiplicative Attention Loss | Additive Attention Loss  |
+|-------------------------|-------------------------------|--------------------------|
+|![](screenshots/g_a1.png)|  ![](screenshots/m_a1.png)    |![](screenshots/a_a1.png) |
+
+### Attention Maps
+| General Attention Loss  | Multiplicative Attention Loss | Additive Attention Loss  |
+|-------------------------|-------------------------------|--------------------------|
+|![](screenshots/g_a2.png)|  ![](screenshots/m_a2.png)    |![](screenshots/a_a3.png) |
+
 ### Conclusion
 
 Based on the evaluation, **Additive Attention** provided the best translation quality with the lowest validation perplexity score. Therefore, this approach was chosen for the final model use in web application.
@@ -174,4 +194,7 @@ Proper credit is also given to the **myWord Tokenizer**: [https://github.com/ye-
 
 ![Web Application UI](screenshots/ui.png)
 ![Translation Result](screenshots/result.png)
+
+---
+
 
