@@ -6,7 +6,7 @@
 
 ## Acknowledgments
 
-This project was developed under the guidance of **Professor [Professor's Name]** as part of the **Natural Language Understanding (NLU)** course. Special thanks to my seniors and friends for their insights and support. 
+This project was developed under the guidance of **Professor Chaklam** as part of the **Natural Language Understanding (NLU)** course. Special thanks to my seniors and friends for their insights and support. 
 
 Additionally, proper credit is given to:
 - **Dataset Source**: [myXNLI dataset](https://github.com/akhtet/myXNLI/tree/main)
@@ -158,7 +158,7 @@ A Flask-based web application was developed to demonstrate real-time English-to-
 
 ### Conclusion
 
-Based on the evaluation, **Additive Attention** provided the best translation quality with the highest BLEU score. Therefore, this approach was chosen for the final deployed model.
+Based on the evaluation, **Additive Attention** provided the best translation quality with the lowest validation perplexity score. Therefore, this approach was chosen for the final model use in web application.
 
 ---
 
