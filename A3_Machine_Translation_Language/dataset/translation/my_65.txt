@@ -1,0 +1,499 @@
+6401
+Attorneys get paid by the LSC if they are working in terrorism.
+အကြမ်းဖက်အမှု အတွက် ရှေ့နေများ အမှုလိုက်ပေးပါက သူတို့ကို LSC မှ အခကြေးငွေပေးမည်။
+# 5/5
+
+6402
+Some attorneys get paid by the LSC.
+အချို့ ရှေ့နေများသည် LSC မှ အခကြေးငွေရရှိသည်။
+# 5/5
+
+6403
+The LSC only funds medical students.
+LSC သည် ဆေးကျောင်းသားများကိုသာ ငွေကြေးထောက်ပံ့သည်။
+# 5/5
+
+6404
+Commercial companies no longer use prototypes.
+စီးပွားဖြစ် ကုမ္ပဏီများသည် ပုံစံငယ်များကို အသုံးမပြုတော့ပါ။
+# 5/5
+
+6405
+The commercial companies need prototypes to show their new technology to the public.
+စီးပွားဖြစ် ကုမ္ပဏီများသည် ၎င်းတို့၏ နည်းပညာ အသစ်ကို အများပြည်သူအား ပြသရန် အတွက် ပုံစံငယ်များကို လိုအပ်ပါသည်။
+# 5/5
+
+6406
+The commercial companies use prototypes.
+စီးပွားဖြစ် ကုမ္ပဏီများသည် ပုံစံငယ်များကို အသုံးပြုကြသည်။
+# 5/5
+
+6407
+It could never take less than 21 months.
+ထိုအရာသည် ၂၁ လ ထက် နည်းပြီး မကြာနိုင်ပါ။
+# 4/5
+
+6408
+It should take about 21 months to retrofit a single utility boiler.
+ဘက်စုံသုံး ဘွိုင်လာ တစ်လုံးကို ပြန်လည်ပြင်ဆင် ရန် ၂၁ လခန့် ကြာသင့်သည်။
+# 5/5
+
+6409
+Retrofitting a boiler can be done in just a few days.
+ဘွိုင်လာ တစ်လုံး ပြန်လည်ပြုပြင်ခြင်းကို ရက်အနည်းငယ်အတွင်း ပြီးစီးနိုင်သည်။ 
+# 5/5
+
+6410
+The CIO trains other CIOs.
+စီအိုင်အိုသည် အခြားသော စီအိုင်အို များကို လေ့ကျင့်ပေးသည်။
+# 5/5
+
+6411
+The CIO wants his peers to improve their performance.
+စီအိုင်အိုက သူနှင့် အဆင့်တူသူများ၏ စွမ်းဆောင်ရည်ကို တိုးတက်စေချင်သည်။
+# 5/5
+
+6412
+The CIO won't talk to his peers.
+စီအိုင်အိုက သူနှင့် အဆင့်တူသူများကို စကားပြောမည်မဟုတ်။
+# 5/5
+
+6413
+BLM didn't have any information.
+BLM တွင် မည်သည့် အချက်အလက်မျှ မရှိပါ။
+# 5/5
+
+6414
+BLM put information in the pamphlet.
+BLM က အချက်အလက်များကို လက်ကမ်းစာစောင်တွင် ထည့်ထားသည်။
+# 5/5
+
+6415
+BLM put some information in there.
+BLM က အဲဒီထဲမှာ အချက်အလက် တချို့ ထည့်ထားတယ်။
+# 5/5
+
+6416
+That happened in primary care, too.
+အဓိက ပြုစုစောင့်ရှောက်ရေးမှာလည်း ၊ ဒီလိုဖြစ်ခဲ့တယ်။
+# 4/5
+
+6417
+That only happens in specialists.
+၎င်းသည် အထူးကုများတွင်သာ ဖြစ်ပွားသည်။
+# 4/5
+
+6418
+There were unpaid bills in primary care as well.
+အဓိက စောင့်ရှောက်မှုတွင် လည်း မပေးချေရသေးသော ငွေတောင်းခံလွှာများ ရှိခဲ့သည်။
+# 5/5
+
+6419
+Capital cities are the best places for software companies.
+မြို့တော်များသည် ဆော့ဖ်ဝဲ ကုမ္ပဏီများ အတွက် အကောင်းဆုံး နေရာများ ဖြစ်သည်။
+# 5/5
+
+6420
+One capital has a ton of software companies.
+မြို့တော် တစ်ခုတွင် ဆော့ဖ်ဝဲလ် ကုမ္ပဏီ များစွာ ရှိသည်။
+# 4/5
+
+6421
+Software companies avoid capitals for legal reasons.
+ဆော့ဖ်ဝဲ ကုမ္ပဏီများသည် တရားဝင် အကြောင်းပြချက်များဖြင့် မြို့တော်တွေကို ရှောင်ရှားကြသည်။
+# 2/5
+
+6422
+They have to include all the parts.
+သူတို့ အပိုင်း အားလုံးကို ထည့်သွင်းရမည်။
+# 5/5
+
+6423
+They have to include the parts for the new rocket.
+သူတို့ ဒုံးပျံ အသစ် အတွက် အစိတ်အပိုင်းများ ထည့်သွင်း ရမည်။
+# 5/5
+
+6424
+They only have to include the essential parts.
+သူတို့ မရှိမဖြစ် အစိတ်အပိုင်းများသာ ထည့်သွင်းရမည်။
+# 5/5
+
+6425
+Her work as a judge helped poor minorities in New York.
+တရားသူကြီး တစ်ဦး အဖြစ် သူ၏ အလုပ်သည် နယူးယောက်ရှိ ဆင်းရဲသော လူနည်းစုများကို ကူညီပေးခဲ့သည်။
+# 5/5
+
+6426
+Her work as a judge helped poor people.
+တရားသူကြီး တစ်ဦး အဖြစ် သူ၏ အလုပ်သည် ဆင်းရဲနွမ်းပါးသူများ ကို ကူညီပေးခဲ့သည်။
+# 5/5
+
+6427
+Her work was focused on rich people.
+သူ့ အလုပ်က ချမ်းသာသူများ ကို အာရုံစိုက်တာဖြစ်တယ်။
+# 5/5
+
+6428
+Organizations always outsource the work.
+အဖွဲ့အစည်းများသည် အလုပ်များကို အမြဲတမ်း ပြင်ပအဖွဲ့အစည်းများနှင့်စာချုပ်ချုပ်ဆိုကြသည်။
+# 3/5
+
+6429
+Organizations decide if they're going to use in-house employees of if it costs too much to do that.
+၎င်းကို လုပ်ဆောင်ရန် အလွန်အကျွံ ကုန်ကျပါက ရုံးတွင်း ဝန်ထမ်းများကို အသုံးပြုမပြု အဖွဲ့အစည်းများက ဆုံးဖြတ်ကြသည်။
+# 5/5
+
+6430
+Organizations decide if they're going to use in-house employees.
+ရုံးတွင်း ဝန်ထမ်းများ ကို အသုံးပြုမပြု အဖွဲ့အစည်းများက ဆုံးဖြတ်ကြသည်။
+# 5/5
+
+6431
+The CEO tells people who gets what information but sometimes they make mistakes.
+စီအီးအိုက ဘယ်သူ ဘာသတင်းအချက်အလက်ကို ရတယ်ဆိုတာ ပြောပြ ပေမယ့် တစ်ခါတစ်ရံ သူတို့သည် အမှားတွေ လုပ်မိတတ်ပါတယ်။
+# 5/5
+
+6432
+The CEO tells people who gets what information.
+စီအီးအိုက ဘယ်သူ ဘာသတင်းအချက်အလက်တွေကို ရတယ်လို့ လူတွေကို ပြောပြတယ်။
+# 5/5
+
+6433
+The CIO works to get information out to people.
+စီအိုင်အိုသည် လူများ ထံမှ သတင်းအချက်အလက် ရယူရန် လုပ်ဆောင်သည်။
+# 5/5
+
+6434
+They calculate the welfare effects like they do how much money they make.
+သူတို့သည် ငွေ ဘယ်လောက်များများကို ပြုလုပ်သည်ကို သူတို့ ပြုလုပ် သကဲ့သို့ လူမှုဖူလုံရေး ရလဒ်တွေကို သူတို့ တွက်ချက်ကြတယ်။
+# 2/5
+
+6435
+They calculate welfare effects quickly on a calculator.
+သူတို့သည် ဂဏန်းပေါင်းစက် တစ်လုံးတွင် လူမှုဖူလုံရေး ရလဒ်တွေကို လျင်မြန်စွာ တွက်ချက်ပါသည်။
+# 2/5
+
+6436
+They don't know how to calculate welfare effects.
+လူမှုဖူလုံရေး ရလဒ်များကို မည်သို့ တွက်ချက်ရမည်ကို သူတို့ မသိကြပါ။
+# 2/5
+
+6437
+The trust fund borrowed money because it was running at a huge deficit.
+ယုံမှတ်အပ်နှံငွေသည် များပြားသော လိုငွေပြမှု ဖြင့် လည်ပတ်နေသောကြောင့် ပိုက်ဆံကို ချေးယူခဲ့ပါသည်။
+# 4/5
+
+6438
+The trust fund has never needed to borrow.
+ယုံမှတ်အပ်နှံငွေသည် မည်သည့်အခါမျှ ချေးငှားရန် မလိုအပ်ခဲ့ပါ။
+# 5/5
+
+6439
+The trust fund needed to borrow money.
+ယုံမှတ်အပ်နှံငွေသည် ပိုက်ဆံ ချေးငှား ရန် လိုအပ်ခဲ့သည်။
+# 5/5
+
+6440
+Alternate communication makes up 60% of communication now.
+ယခုအခါ အခြာနည်း ဆက်သွယ်ရေးသည် ဆက်သွယ်မှုများ ၏ ၆၀% ရှိသည်။
+# 5/5
+
+6441
+Everyone just uses letters.
+လူတိုင်း စာရေး ပို့ကြတယ်။
+# 5/5
+
+6442
+Other modes of communication are becomming more popular.
+အခြား ဆက်သွယ်မှု နည်းလမ်းများ ပိုမို ရေပန်းစားလာပါသည်။
+# 5/5
+
+6443
+A CIO organization takes a long time to develop.
+စီအိုင်အို အဖွဲ့အစည်း တစ်ခု ဖွံ့ဖြိုးတိုးတက်ရန် အချိန်အတော်ကြာသည်။
+# 5/5
+
+6444
+It's very easy to develop a CIO organization.
+စီအိုင်အို အဖွဲ့အစည်းတစ်ခု ထူထောင် ရန် အလွန် လွယ်ကူသည်။
+# 5/5
+
+6445
+You have to develop a CIO organization carefully or it will fall apart.
+စီအိုင်အို အဖွဲ့အစည်း တစ်ခု ကို ဂရုတစိုက် ပြုစုပျိုးထောင် ရသည် ဒါမှမဟုတ်ရင် ၎င်း ပြိုကွဲ သွားမည်ဖြစ်သည်။
+# 5/5
+
+6446
+ALl the data is from different years.
+အချက်အလက် အားလုံးသည်မတူညီသော နှစ်များမှ ဖြစ်သည်။
+# 5/5
+
+6447
+The data is all from 1988 in that part.
+အချက်အလက် အားလုံးသည် ထိုအပိုင်းတွင် ၁၉၈၈ ခုနှစ်မှ ဖြစ်သည်။
+# 5/5
+
+6448
+The data is from July 1988.
+အချက်အလက် အားလုံးသည် ၁၉၈၈ ဇူလိုင်လမှ ဖြစ်သည်။
+# 5/5
+
+6449
+The estimates all look at people who are exposed just once.
+ခန့်မှန်းခြေများ အားလုံးသည် တစ်ကြိမ်သာ ထိတွေ့ခဲ့ သည့် လူများကိုသာ ကြည့်သည်။
+# 4/5
+
+6450
+The estimates deal with long-term exposure, so the short-term is probably a lot less.
+ခန့်မှန်းခြေများသည် ရေရှည် ထိတွေ့မှု ကို ကိုင်တွယ်ဖြေရှင်းသည်၊ ထို့ကြောင့် ရေတိုသည် များစွာ ဖြစ်နိုင်ချေ နည်းသည်။ 
+# 5/5
+
+6451
+The estimates deal with long-term exposure.
+ခန့်မှန်းခြေများသည် ရေရှည် ထိတွေ့မှု ကို ကိုင်တွယ်ဖြေရှင်းရသည်။
+# 5/5
+
+6452
+First you do an efficacy trial.
+ပထမဦးစွာ ထိရောက်မှု စမ်းသပ်စစ်ဆေးခြင်းကို သင် ပြုလုပ်ပါ။
+# 5/5
+
+6453
+First you'll need to test the efficacy of an intervention.
+ပထမဦးစွာ ဝင်ရောက်စွက်ဖက်ခြင်း၏ ထိရောက်မှုကို သင် စမ်းသပ်ရန် လိုအပ် လိမ့်မည်။
+# 5/5
+
+6454
+The efficacy test is the last step.
+ထိရောက်မှု စမ်းသပ်ခြင်းသည် နောက်ဆုံး အဆင့် ဖြစ်သည်။
+# 5/5
+
+6455
+If you don't save money in your bank account, you will have nothing.
+မင်းရဲ့ ဘဏ် အကောင့်ထဲမှာ မင်း ပိုက်ဆံ မစုဘူးဆိုလျှင် ၊ မင်းမှာ ဘာမှရှိမှာမဟုတ်ဘူး။
+# 5/5
+
+6456
+If you don't save money, you won't have money.
+မင်း ပိုက်ဆံ မစုဘူးဆိုလျှင် ၊ မင်းမှာ ပိုက်ဆံ ရှိမှာမဟုတ်ဘူး။
+# 5/5
+
+6457
+You usually end up with money no matter what.
+မင်းက ဘယ်တော့မဆို အမြဲတမ်း ပိုက်ဆံနဲ့ ပဲ ဇာတ်သိမ်းတာပဲ။
+# 5/5
+
+6458
+Without a motion to withdraw, an attorney doesn't have to respond to anything.
+ပြန်လည်ရုပ်သိမ်းရန် အဆိုပြုချက် တစ်ခု မရှိပါက ၊ ရှေ့နေ တစ်ယောက်သည် ဘာမှ တုံ့ပြန်ရန် မလိုပါ။
+# 5/5
+
+6459
+Without a motion to withdraw, an attorney is responsible for any response except for one involving citizenship.
+ပြန်လည်ရုပ်သိမ်းရန် အဆိုပြုချက် တစ်ခု မရှိပါက ၊  နိုင်ငံသားဖြစ်ခြင်းနှင့် ပါဝင်ပတ်သက်သည့် ကိစ္စ မှလွဲ၍ မည်သည့် တုံ့ပြန်မှုအတွက်မဆို ရှေ့နေတွင်  တာဝန်ရှိပါသည်။
+# 5/5
+
+6460
+Without a motion to withdraw, an attorney is responsible for any response.
+ပြန်လည်ရုပ်သိမ်းရန် အဆိုပြုချက် တစ်ခု မရှိပါက ၊ မည်သည့် တုံ့ပြန်မှုအတွက်မဆို ရှေ့နေတွင် တာဝန်ရှိသည်။
+# 5/5
+
+6461
+LSC funded attorneys can't be on cases where the client leaves the country.
+LSC က ငွေကြေးထောက်ပံ့ပေးထားသော ရှေ့နေများသည် အမှုသည် နိုင်ငံမှ ထွက်ခွာသည့် ကိစ္စများတွင် မပါဝင်နိုင်ပါ။
+# 5/5
+
+6462
+LSC funded attorneys can't work cases involving non-citizens.
+LSC က ငွေကြေးထောက်ပံ့ပေးထားသော ရှေ့နေများက နိုင်ငံသားမဟုတ်သူများ ပါဝင်သည့် အမှုတွဲများကို လုပ်ဆောင်၍ မရနိုင်ပါ။
+# 5/5
+
+6463
+LSC funded attorneys work any case they want.
+LSC က ငွေကြေးထောက်ပံ့ပေးထားသော ရှေ့နေများသည် သူတို့ လိုချင်သော မည့်သည့်အမှုကိုမဆို လိုက်နိုင်သည်။
+# 5/5
+
+6464
+Principle IV deals with capital development strategy in Fortune 500 organizations.
+အခြေခံနိယာမ ၄ သည် အချမ်းသာဆုံး အဖွဲ့အစည်း ၅၀၀ တွင် အရင်းအနှီး ဖွံ့ဖြိုးရေး မဟာဗျူဟာနှင့် သက်ဆိုင်သည်။
+# 5/5
+
+6465
+Principle IV deals with capital development strategy.
+အခြေခံနိယာမ ၄ သည် အရင်းအနှီး ဖွံ့ဖြိုးတိုးတက်မှု မဟာဗျူဟာနှင့် သက်ဆိုင်သည်။
+# 5/5
+
+6466
+Principle XII deals with capital development strategy.
+အခြေခံနိယာမ ၁၂ သည် အရင်းအနှီး ဖွံ့ဖြိုးတိုးတက်မှု မဟာဗျူဟာနှင့် ပတ်သက်သည်။
+# 5/5
+
+6467
+The ED is leisurely and relaxed.
+ED သည် အေးအေးဆးဆေးနှင့် စိတ်အေးလက်အေးဖြစ်နေသည်။
+# 5/5
+
+6468
+Things move really fast in the ED because they see 2000 patients a week.
+တစ်ပတ်လျှင် လူနာ ၂၀၀၀ ကြည့်သောကြောင့် ED တွင် ကိစ္စများ တော်တော်လျှင်မြန်စွာ လုပ်နေကြသည်။
+# 5/5
+
+6469
+Things move really fast in the ED.
+ED တွင် ကိစ္စများကို တော်တော် လျှင်မြန်စွာ လုပ်ကြသည်။
+# 5/5
+
+6470
+Every kind of intervention has challenges, but some have much more than others.
+စွက်ဖက်မှုတိုင်းသည် စိန်ခေါ်မှုများ ရှိသည်၊ သို့သော် အချို့ကိစ္စများတွင် အခြားထက် များစွာပိုသည်။
+# 4/5
+
+6471
+Most interventions are perfect.
+ကြားဝင်ခြင်း အများစု သည် ပကတိ ပြည့်စုံသည်။
+# 5/5
+
+6472
+One kind of intervention has a big challenge, no matter what.
+ဘာပဲဖြစ်ဖြစ်၊ စွက်ဖက်မှု တစ်မျိုးမှာ စိန်ခေါ်မှုကြီး တစ်ခု ရှိသည်။
+# 5/5
+
+6473
+When the travel voucher is used, the system can compare the info to make sure there is no fraud.
+ခရီးသွား လက်မှတ်ကို အသုံးပြုသည့်အခါ ၊ လိမ်လည်မှု မရှိကြောင်း သေချာစေရန် အချက်အလက်များကို အဆိုပါ စနစ်က နှိုင်းယှဉ်နိုင်သည်။
+# 5/5
+
+6474
+When the travel voucher is used, the system can compare the info.
+ခရီးသွား လက်မှတ်ကို အသုံးပြုသည့်အခါ ၊ အဆိုပါ စနစ်သည် အချက်အလက်ကို နှိုင်းယှဉ်နိုင်သည်။
+# 5/5
+
+6475
+When the travel voucher is used, the system freaks out and won't work.
+ခရီးသွား လက်မှတ်ကို အသုံးပြုသောအခါ ၊ အဆိုပါ စနစ်သည် ဖောက်ပြန်သွား ပြီးနောက် အလုပ်မလုပ်ပါ။
+# 5/5
+
+6476
+It's fine to just stop representing a client.
+ဖောက်သည် တစ်ဦးကို ကိုယ်စားပြုခြင်းအား ရပ်လိုက်လျှင် ရပါသည်။
+# 5/5
+
+6477
+It's not a good idea to stop legal representation because then they'll probably get a mistrial granted.
+# ဥပဒေကြောင်းအရ တင်ပြတောင်းဆိုချက်ကို ရပ်ဖို့ စိတ်ကူးက မကောင်းဘူး​၊​ ဘာကြောင့်လဲဆိုတော့ လွဲမှားစွာတရားစီရင်ခံရ ကြောင်း ထောက်ခံမှု သူတို့ရကောင်းရနိုင်သေးတယ်။
+# 5/5
+
+6478
+It's not good to stop legal representation.
+ဥပဒေကြောင်းအရ တင်ပြတောင်းဆိုချက်ကို ရပ်လိုက်တာ မကောင်းပါဘူး။
+# 5/5
+
+6479
+2000 was excellent because Congress passed more bills than ever before.
+ကွန်ဂရက်လွှတ်တော်သည် ယခင်ကထက် ပိုမိုများပြားသော ဥပဒေကြမ်းများကို အတည်ပြုနိုင်ခဲ့ သောကြောင့် ၂၀၀၀ ပြည့်နှစ်သည် အပြောင်မြောက်ဆုံးဖြစ်သည်။
+# 5/5
+
+6480
+2000 was great for Congress.
+၂၀၀၀ ပြည့်နှစ် သည် ကွန်ဂရက်လွှတ်တော် အတွက် အလွန်ကောင်းသည်။
+# 5/5 
+
+6481
+2000 was the worst year ever.
+၂၀၀၀ခုနှစ်သည် အဆိုးရွားဆုံး နှစ် ဖြစ်ခဲ့သည်။
+# 5/5
+
+6482
+Even if there is no threshold, there is a ton of risk from exposure.
+သတ်မှတ်အဆင့်တွေ မရှိရင်တောင်၊ အန္တရာယ် အများကြီး ထိတွေ့နိုင်တယ်။
+# 5/5
+
+6483
+If you assume there is no threshold, any exposure is considered to be risk-free.
+သတ်မှတ်အဆင့်တွေ မရှိဟု ယူဆလျှင် မည်သည့်ထိတွေ့မှု မဆို အန္တရာယ်ကင်းသည်ဟု ယူဆသည်။
+# 5/5
+
+6484
+If you assume there is no threshold, any exposure to mercury is risk-free.
+သတ်မှတ်အဆင့်တွေ မရှိဟု ယူဆလျှင် ပြဒါးနှင့် မည့်သည့် ထိတွေ့မှုမဆို အန္တရာယ်ကင်းသည်ဟု ယူဆသည်။
+# 5/5
+
+6485
+IT workers are way too common these days.
+ယခုခေတ် တွင် အိုင်တီ အလုပ်သမားများ သည် သာမန် ဖြစ်သည်။
+# 4/5 
+
+6486
+People need IT workers to help install computer systems.
+လူများသည် ကွန်ပျူတာ စနစ်များ ကူညီ တပ်ဆင်ရန် အိုင်တီလုပ်သားများကို လိုအပ်နေပါသည်။
+# 4/5
+
+6487
+People really need good IT people.
+လူတွေက ကောင်းမွန်တဲ့ အိုင်တီသမားများကို တကယ် လိုအပ်တယ်။
+# 5/5
+
+6488
+we know we'll fail every time.
+အကြိမ်တိုင်း ငါတို့ ရှုံးမှာ ငါတို့သိတယ်။
+# 5/5
+
+6489
+we will try to hit the target a lot.
+ပစ်မှတ်ကို ထိအောင် ငါတို့ အများကြီး ကြိုးစားမှာ။
+# 5/5
+
+6490
+we'll try to hit the fundraising goal every year.
+နှစ်စဉ်နှစ်တိုင်း ရန်ပုံငွေရှာဖွေရေး ပန်းတိုင်ကို ရောက်အောင် ငါတို့ ကြိုးစားသွားမယ်။
+# 5/5
+
+6491
+Mercury emissions create problems with the water and then fish ingest it.
+ပြဒါး ထုတ်လွှတ်မှုသည် ရေတွင် ပြဿနာများ ဖြစ်ပေါ်စေ ပြီး ငါးများက ၎င်းကို မျိုချသည်။
+# 4/5 
+
+6492
+Mercury emissions create problems with the water.
+ပြဒါး ထုတ်လွှတ်မှုက ရေတွင် ပြဿနာများ ဖန်တီးပေးတယ်။
+# 5/5
+
+6493
+Mercury emissions don't influence the water at all.
+ပြဒါး ထုတ်လွှတ်မှုသည် ရေကို လုံးဝ မလွှမ်းမိုးပါ။
+# 5/5
+
+6494
+Technology can reduce how long providers and staff need to screen people by up to 80%.
+နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို စစ်ဆေးရာတွင် ကြာမြင့်ချိန်ကို ၈၀% အထိ လျှော့ချပေးနိုင်သည်။
+# 5/5
+
+6495
+Technology can reduce how long providers and staff need to screen people.
+နည်းပညာသည် ပံ့ပိုးပေးသူများ နှင့် ဝန်ထမ်းများက လူများကို စစ်ဆေးရာတွင် ကြာမြင့်ချိန်ကို လျှော့ချပေးနိုင်သည်။
+# 5/5
+
+6496
+Technology doesn't help screening at all.
+စစ်ဆေးရာတွင် နည်းပညာက လုံးဝ မကူညီနိုင်ပါသည်။
+# 5/5
+
+6497
+GAO is an entity that requires an allocation of resources.
+GAO သည် အရင်းအမြစ်များကို ခွဲဝေပေးခြင်း တစ်ခုကို လိုအပ်သော အဖွဲ့အစည်း တစ်ခု ဖြစ်သည်။
+# 5/5
+
+6498
+The GAO is a federal agency that with a multi-billion dollar annual budget.
+GAO သည် နှစ်စဉ် ဘတ်ဂျက် ဒေါ်လာ ဘီလီယံပေါင်းများစွာ နှင့် ဖက်ဒရယ် အေဂျင်စီ တစ်ခု ဖြစ်သည်။
+# 4/5
+
+6499
+The GAO is the worst performing federal entity and is in line to have all its funding cut.
+GAO သည် စွမ်းဆောင်ရည် အညံ့ဆုံး ဖက်ဒရယ် အဖွဲ့အစည်း ဖြစ် ပြီး ၎င်း၏ ရန်ပုံငွေ အားလုံးကို ဖြတ်တောက်ရန်  လိုက်လျောညီထွေရှိနေသည်။
+# 4/5
+
+6500
+Postal density doesn't influence costs at all.
+စာတိုက် သိပ်သည်ဆ သည် ကုန်ကျစရိတ်များကို လုံးဝ လွှမ်းမိုးခြင်းမရှိပါ။
+# 4/5

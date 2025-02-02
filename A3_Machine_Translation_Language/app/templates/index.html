@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>English to Burmese Translator</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <header>
+      <h1>A3 Machine Translation</h1>
+      <h1>English to Burmese Translator</h1>
+    </header>
+    <main>
+      <form method="post" class="translate-form">
+        <label for="english_text">Enter English Text:</label>
+        <textarea id="english_text" name="english_text" placeholder="Type your text here...">{{ input_text or "" }}</textarea>
+        <button type="submit">Translate</button>
+      </form>
+      {% if translation %}
+      <section class="translation-result">
+        <h2>Translation</h2>
+        <p>{{ translation }}</p>
+      </section>
+      {% endif %}
+    </main>
+    <footer>
+      <p>&copy; st125338 Zwe Htet</p>
+    </footer>
+  </div>
+</body>
+</html>
