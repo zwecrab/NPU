@@ -39,9 +39,7 @@ This report evaluates the implementation of a Siamese-BERT (S-BERT) model for Na
   - Embedding Size / Hidden Dim: 768  
   - Number of Epochs: 1000  
   - Training Data: 740,042 sentences  
-  - Dimension of K (and Q, V): 64  
-  - Vocab Size: 60,305  
-- **Model Save Location:** The trained model weights are saved in `app/models/bert-from-scratch.pt`.
+  - Dimension of K (and Q, V): 64
 
 ## Task 2 - Sentence BERT
 
@@ -56,10 +54,8 @@ This report evaluates the implementation of a Siamese-BERT (S-BERT) model for Na
   - **Attention Head Dimension (d_k):** 64  
 - **Training Parameters:**  
   - **Total Trainable Parameters:** 135,727,340  
-  - **Batch Size:** 32  
-  - **Learning Rate:** (e.g., 2e-5 for classifier head fine-tuning)  
-  - **Number of Epochs:** As per experimental setup (e.g., 5 epochs for the classification head)
-
+  - **Batch Size:** 32
+  - **Number of Epochs:** 5
 
 **Model:**
 - **S-BERT on our BERT model:** A custom-trained S-BERT variant based on a modified BERT architecture.
