@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>A4:Do You Agree</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>A4:Do You Agree</h1>
+        <form method="post">
+            <label for="premise">Premise:</label>
+            <textarea id="premise" name="premise" rows="4" required>{{ premise }}</textarea>
+            
+            <label for="hypothesis">Hypothesis:</label>
+            <textarea id="hypothesis" name="hypothesis" rows="4" required>{{ hypothesis }}</textarea>
+            
+            <button type="submit">Analyze Similarity</button>
+        </form>
+        
+        {% if label %}
+        <div class="result">
+            <h2>Predicted NLI Label: {{ label }}</h2>
+            <p>Cosine Similarity: {{ similarity|round(4) }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
