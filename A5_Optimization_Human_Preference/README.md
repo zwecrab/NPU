@@ -117,7 +117,7 @@ A simple web application was developed using Gradio. The application provides an
 
 ### Web Application
 1. Run the **A5_app.py** file.
-2. Open your browser and navigate to [http://127.0.0.1:5000](http://127.0.0.1:7860).
+2. Open your browser and navigate to [http://127.0.0.1:7860](http://127.0.0.1:7860).
 3. Enter a prompt and generate a response.
 
 ---
