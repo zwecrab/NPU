@@ -87,10 +87,10 @@ A simple web application was developed using Gradio. The application provides an
 
 ### Webapp Home page and Result
 - **Home Page**
-![Contradiction](./A5_Optimization_Human_Preference/screenshots/home.png)  
+![Contradiction](screenshots/home.png)  
 
 - **Result**
-![Entailment](./A5_Optimization_Human_Preference/screenshots/result.png)
+![Entailment](screenshots/result.png)
 
 - **Key Features:**
   - **Input:** A text box for entering a prompt.
