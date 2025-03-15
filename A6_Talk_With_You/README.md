@@ -71,6 +71,8 @@ The project involves:
 
 ---
 
+# Task 1. Source Discovery
+
 ## Data Sources
 The chatbot retrieves information from the following document:
 - **A6_Bio.pdf** - A structured document containing personal details used for chatbot responses.
@@ -95,6 +97,8 @@ Answer:
 ```
 
 ---
+
+# Task 2: Analysis and Problem Solving
 
 ## Retrieval and Generation Models
 ### Embedding Model (Retriever)
@@ -123,10 +127,16 @@ Answer:
 | `mistralai/Mistral-7B-Instruct-v0.2` | 7B | More detailed responses but requires more memory | 119.60s       | 99.85s       |
 
 #### Final Choice:
-The **Qwen2.5-Coder model** was chosen due to its efficiency and speed while maintaining accurate responses within limited computational resources.
+The **Qwen2.5-Coder model** was chosen due to its efficiency and speed while maintaining accurate responses within limited computational resources. 
 
 ---
 
+### Mitigating Generation of Unrelated Information
+
+By strategically designing chatbot prompts to strictly avoid generating unrelated content, we significantly reduce instances where the model provides irrelevant or off-topic information. Additionally, the temperature parameter of the generator model has been decreased, which reduces randomness during text generation, thereby lowering the likelihood of model hallucinations.
+
+---
+# Task 3: Chatbot Development
 ## Chatbot Implementation
 The chatbot pipeline consists of:
 1. **Document Loader**: Loads PDFs for retrieval.
