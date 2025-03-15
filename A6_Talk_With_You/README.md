@@ -7,7 +7,7 @@
 ---
 
 ## Acknowledgments
-This project was developed under the guidance of **Professor Chaklam** as part of the **Machine Learning** course. Special thanks to my classmates and seniors for their valuable insights and support.
+This project was developed under the guidance of **Professor Chaklam** as part of the **NPU** course. Special thanks to my friends and seniors for their valuable insights and support.
 
 ---
 
@@ -65,9 +65,17 @@ The project involves:
 
 ---
 
+## Usage
+- Enter your questions manually.
+- View generated responses along with source documents.
+
+---
+
 ## Data Sources
 The chatbot retrieves information from the following document:
 - **A6_Bio.pdf** - A structured document containing personal details used for chatbot responses.
+
+**NOTE**: Other sources were removed due to long runtime and computational limitatoins. Inputing more related  files into the `References` folder will make this app smarter.
 
 ---
 
@@ -95,11 +103,24 @@ Answer:
 
 ### Text-Generation Models Explored
 
+#### Test Generation
+
+1. Testing model: **microsoft/Phi-4-mini-instruct**
+![Web Application UI](Screenshots/phi4_mini.png)
+
+2. Testing model: **mistralai/Mistral-7B-Instruct-v0.2**
+![With Information Result](Screenshots/mistral-7B.png)
+
+3. Testing model: **Qwen/Qwen2.5-Coder-0.5B-Instruct**
+![No Infomation Result](Screenshots/qwen2.5_0.5B.png)
+
+#### Evaluation
+
 | Model | Parameters | Performance | Total Runtime | Inference Time |
 |--------|-------------|-------------|---------------|----------------|
-| `Qwen/Qwen2.5-Coder-0.5B-Instruct` | 0.5B | Good speed, best for structured outputs | 21.35s        | 14.35s         |
-| `microsoft/Phi-4-instruct` | 3.84B | High coherence, slightly slower | 119.60s       | 99.85s         |
-| `mistralai/Mistral-7B-Instruct-v0.2` | 7B | More detailed responses but requires more memory | 7.71s         | 2.91s          |
+| `Qwen/Qwen2.5-Coder-0.5B-Instruct` | 0.5B | Good speed, best for structured outputs | 7.71s       | 2.91s       |
+| `microsoft/Phi-4-instruct` | 3.84B | High coherence, slightly slower | 21.35s       | 14.35s       |          
+| `mistralai/Mistral-7B-Instruct-v0.2` | 7B | More detailed responses but requires more memory | 119.60s       | 99.85s       |
 
 #### Final Choice:
 The **Qwen2.5-Coder model** was chosen due to its efficiency and speed while maintaining accurate responses within limited computational resources.
@@ -124,7 +145,7 @@ pip install torch transformers langchain faiss-cpu gradio
 ### Setup
 ```bash
 git clone https://github.com/zwecrab/NPU/tree/main/A6_Talk_With_You
-cd A6_Talk_With_You
+cd .\A6_Talk_With_You\app
 ```
 
 ### Running the Application

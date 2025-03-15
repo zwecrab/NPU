@@ -21,7 +21,7 @@ torch.manual_seed(SEED)
 torch.backends.cudnn.deterministic = True
 
 # Load and process documents
-references_dir = "References/"
+references_dir = "../References/"
 file_names = [f for f in os.listdir(references_dir) if os.path.isfile(os.path.join(references_dir, f))]
 pdf_files = [os.path.join(references_dir, file) for file in file_names]
 
