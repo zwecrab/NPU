@@ -141,7 +141,15 @@ The **Qwen2.5-Coder model** was chosen due to its efficiency and speed while mai
 
 ### Mitigating Generation of Unrelated Information
 
-By strategically designing chatbot prompts to strictly avoid generating unrelated content, we significantly reduce instances where the model provides irrelevant or off-topic information. Additionally, the temperature parameter of the generator model has been decreased, which reduces randomness during text generation, thereby lowering the likelihood of model hallucinations.
+To minimize unrelated information in RAG-based models, improvements have been applied to both the retriever and the generator models:
+
+- **Retriever Model:**
+  By refining the retrieval mechanism and optimizing the embedding strategy, documents retrieved are more closely aligned with query contexts, significantly reducing irrelevant content.
+
+- **Generator Model:**
+  Prompt design has been strategically adjusted to explicitly discourage the generation of unrelated information. Additionally, the temperature parameter has been lowered to decrease randomness during generation, further limiting instances of hallucinations and off-topic responses.
+
+These combined enhancements ensure that both retrieval accuracy and generation precision effectively address and mitigate unrelated information in responses.
 
 ---
 # Task 3: Chatbot Development
