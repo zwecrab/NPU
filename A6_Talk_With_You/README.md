@@ -143,6 +143,9 @@ The **Qwen2.5-Coder model** was chosen due to its efficiency and speed while mai
 
 To minimize unrelated information in RAG-based models, improvements have been applied to both the retriever and the generator models:
 
+- **Prompt Design**
+  By instructing the model to generate only based on the retrieved information and limiting the total amount of words it can answer in the prompt, the generator model significantly reduce hallucination and generating random long responses. 
+
 - **Retriever Model:**
   By refining the retrieval mechanism and optimizing the embedding strategy, documents retrieved are more closely aligned with query contexts, significantly reducing irrelevant content.
 
