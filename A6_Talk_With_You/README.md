@@ -105,18 +105,26 @@ Answer:
 - **Model Used**: `sentence-transformers/all-MiniLM-L6-v2`
 - **Reason**: Small, fast, and effective for retrieval tasks.
 
+1. Testing model: **sentence-transformers/all-MiniLM-L6-v2**
+![all-MiniLM-L6-v2](Screenshots/retriever.png)
+
+#### Evaluation
+
+- The retrieved results effectively address the query's cultural aspects, especially documents 1 and 2, clearly reflecting relevant and insightful information on how cultural values should guide technological developments.
+- Doc 3 seems less directly related to the cultural aspect mentioned in the query. Providing more sources related to retrieve topic and ensuring retrieval prioritizes documents explicitly could further enhance relevance.
+
 ### Text-Generation Models Explored
 
 #### Test Generation
 
 1. Testing model: **microsoft/Phi-4-mini-instruct**
-![Web Application UI](Screenshots/phi4_mini.png)
+![Phi-4-mini-instruct](Screenshots/phi4_mini.png)
 
 2. Testing model: **mistralai/Mistral-7B-Instruct-v0.2**
-![With Information Result](Screenshots/mistral-7B.png)
+![Mistral-7B-Instruct-v0.2](Screenshots/mistral-7B.png)
 
 3. Testing model: **Qwen/Qwen2.5-Coder-0.5B-Instruct**
-![No Infomation Result](Screenshots/qwen2.5_0.5B.png)
+![Qwen2.5-Coder-0.5B-Instruct](Screenshots/qwen2.5_0.5B.png)
 
 #### Evaluation
 
