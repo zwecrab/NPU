@@ -75,9 +75,9 @@ The project involves:
 
 ## Data Sources
 The chatbot retrieves information from the following document:
-- **A6_Bio.pdf** - A structured document containing personal details used for chatbot responses.
+- **A6_Bio.pdf** & **A6_Bio_2.pdf** - Structured documents containing personal details used for chatbot responses.
 
-**NOTE**: Other sources were removed due to long runtime and computational limitatoins. Inputing more related  files into the `References` folder will make this app smarter.
+**NOTE**: Other sources were removed due to long runtime and computational limitatoins. Inputing more related  files into the `References` folder or copying web URL to `web_link` array will make this app smarter.
 
 ---
 
