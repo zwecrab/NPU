@@ -24,7 +24,7 @@ The models are trained and evaluated on a toxic comment classification task. The
 
 ### Dataset Used:
 - **Source**: [mat55555/jigsaw_toxic_comment](https://huggingface.co/datasets/mat55555/jigsaw_toxic_comment)
-- **Size**: 127,656 training, 31,915 test samples
+- **Size**: 95,742 training, 31,915 validation, 31,915 test samples
 - **Labels**: Binary label (1 = Toxic, 0 = Non-Toxic)
 - **Preprocessing**:
   - Dropped all columns except `text` and `label`
