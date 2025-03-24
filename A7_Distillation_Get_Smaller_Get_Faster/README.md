@@ -67,6 +67,11 @@ The models are trained and evaluated on a toxic comment classification task. The
 - Optimizer: AdamW
 - Scheduler: Linear decay
 
+### Output
+- Output from the training after saved in the folder.
+- The best model of each model from the training is saved as *best* model.
+- These model are selected using *A7-upload_models.ipynb* and uploaded to huggingface.
+
 ### Evaluation Metrics:
 | Model          | Training Loss             | Test Set Accuracy         | F1-Score                         | Trainable Parameters             | Notes                            |
 |----------------|---------------------------|---------------------------|----------------------------------|----------------------------------|----------------------------------|
@@ -75,7 +80,7 @@ The models are trained and evaluated on a toxic comment classification task. The
 | **LoRA**       | 0.2321                    | 92.28%                    | 0.46                             | 296K                             |                                  |
 
 ### Observations:
-- **Odd-Layer student** outperformed Even-Layer consistently, suggesting deeper teacher layers carry more transferable knowledge.
+- **Odd-Layer** outperformed Even-Layer consistently, suggesting deeper teacher layers carry more transferable knowledge.
 - **LoRA** achieved similar accuracy to Odd-layer with <1% trainable weights.
 - **Even-layer** model suffered from slightly noisier training and slower convergence.
 
@@ -97,6 +102,7 @@ The models are trained and evaluated on a toxic comment classification task. The
 ### Features:
 - Input box for user comment
 - Model prediction displayed clearly
+- Set best performance model (`Odd-Layer`) as the default model in the application, other models can be selected as per user decision.
 - Allow user to select trained models with low-latency inference
 
 ### Live Demo:
