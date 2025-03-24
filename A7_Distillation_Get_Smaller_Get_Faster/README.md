@@ -52,9 +52,10 @@ The models are trained and evaluated on a toxic comment classification task. The
 
 ### Configuration:
 - Library: HuggingFace PEFT
+- **Model**: `bert-base-uncased` with LoRA adapters
 - Injected LoRA modules into `query` and `value` attention projections
 - **Config**: `r=16`, `alpha=32`, `dropout=0.05`, `bias=none`
-- Only ~0.5% of the model parameters were trainable
+- Only trainable 296,450 parameters (<0.5%) of the model parameters were trainable
 
 ---
 
@@ -67,11 +68,11 @@ The models are trained and evaluated on a toxic comment classification task. The
 - Scheduler: Linear decay
 
 ### Evaluation Metrics:
-| Model          | Test Set Loss             | Test Set Accuracy         | F1-Score                         | Notes                            |
-|----------------|---------------------------|---------------------------|----------------------------------|----------------------------------|
-| **Odd Layer**  | **0.1166**                | **96.13%**                | **0.80**                         | **Best accuracy overall**        |
-| **Even Layer** | 0.1174                    | 95.57%                    | 0.79                             |                                  |
-| **LoRA**       | 0.2258                    | 92.28%                    | 0.46                             |                                  |
+| Model          | Training Loss             | Test Set Accuracy         | F1-Score                         | Trainable Parameters             | Notes                            |
+|----------------|---------------------------|---------------------------|----------------------------------|----------------------------------|----------------------------------|
+| **Odd Layer**  | **0.0376**                | **96.13%**                | **0.80**                         | **67 M**                         | **Best accuracy model**          |
+| **Even Layer** | 0.0386                    | 95.57%                    | 0.79                             | 67 M                             |                                  |
+| **LoRA**       | 0.2321                    | 92.28%                    | 0.46                             | 296K                             |                                  |
 
 ### Observations:
 - **Odd-Layer student** outperformed Even-Layer consistently, suggesting deeper teacher layers carry more transferable knowledge.
