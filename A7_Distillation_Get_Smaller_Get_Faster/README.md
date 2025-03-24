@@ -41,8 +41,8 @@ The models are trained and evaluated on a toxic comment classification task. The
 
 | Student Type   | Transferred Layers from Teacher   |
 |----------------|-----------------------------------|
-| **Odd Layer**  | Layers {1,3,5,7,9,11} → {0–5}     |
-| **Even Layer** | Layers {2,4,6,8,10,12} → {0–5}    |
+| **Odd Layer**  | Layers {1,3,5,7,9,11}             |
+| **Even Layer** | Layers {2,4,6,8,10,12}            |
 
 - Models were fully fine-tuned using the training set.
 
